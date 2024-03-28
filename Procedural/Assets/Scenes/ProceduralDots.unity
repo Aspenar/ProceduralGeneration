@@ -366,13 +366,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xSize: 30
   zSize: 30
-  amplitude1: 0.388
+  amplitude1: 0.362
   amplitude2: 0.144
   amplitude3: 0.574
   frequency1: 0.782
   frequency2: 0.447
   frequency3: 0.2
-  noiseStrength: 19.1
+  noiseStrength: 9
   gradient:
     serializedVersion: 2
     key0: {r: 0.09927912, g: 0.26409024, b: 0.9150943, a: 1}
